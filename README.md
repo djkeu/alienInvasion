@@ -5,7 +5,8 @@ What the project does
 - Create an alien invasion type shooting game as described in Python Crash Course.
 
 Why the project is useful
-- Useful for learning Python.
+- Learn Python.
+- Learn Git and Github.
 
 How users can get started with the project
 - Haven't figured that out yet.
