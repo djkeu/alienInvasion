@@ -4,7 +4,8 @@
 What the project does
 - Create an alien invasion type shooting game as described in Python Crash Course.
 
-Why the project is useful
+Why the project is useful (to me)
+- Get VSCode to work with Github repositories.
 - Learn Python.
 - Learn Git and Github.
 
@@ -15,4 +16,4 @@ Where users can get help with your project
 - Haven't figured that out yet.
 
 Who maintains and contributes to the project
-- That would be mainly me, djKeu
+- That would be me, djKeu
