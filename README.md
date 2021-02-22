@@ -6,7 +6,7 @@ What the project does
 
 Why the project is useful (to me)
 - Get VSCode to work with Github repositories.
-    - Trying to commit this file.
+    - Using 'Push to..'
 - Learn Python.
 - Learn Git and Github.
 
