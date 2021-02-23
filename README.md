@@ -22,7 +22,7 @@ How users can get started with the project
 
 
 Where users can get help with your project
-- Haven't figured that out yet.
+- At this stage tips about making this README better would be appreciated. And other help on working with Git and Github as well.
 
 
 Who maintains and contributes to the project
