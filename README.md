@@ -10,7 +10,8 @@ Why the project is useful (to me)
     - Learn to write a meaningful readme.
     - Get vsCode to work with Github repositories.
         - Solve conflict while sharing a repo between remote and two local machines.
-    - Learn Git and Github.
+    - Learn Git and Github. That's gonna take some more time than I hoped for.
+    
 - Learn Python.
     - Python Crash Course p.225, Alien Invasion.
     - alien_invasion.py
