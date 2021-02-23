@@ -1,4 +1,3 @@
-# Python crash course Project 1 Alien invasion, p.225.
 import sys
 
 import pygame
