@@ -12,7 +12,7 @@ Why the project is useful (to me)
         - Solve conflict while sharing a repo between remote and two local machines.
     - Learn Git and Github. That's gonna take some more time than I hoped for.
     
-- Learn Python.
+- Learn to program with Python.
     - Python Crash Course p.225, Alien Invasion.
     - alien_invasion.py
 
