@@ -1,0 +1,19 @@
+Python crash course 2nd edition
+
+Project 1 Alien invasion, p.225
+
+Chapter 12 A ship that fires bullets, p.227
+    Planning your project, p.228
+    Installing pygame, p.228
+    Starting the game project, p.229
+        Creating a pygame window and responding to user input, p.229
+            alien_invasion.py 
+        Setting the background color, p.230
+        Creating a settings class, p.231
+            settings.py
+    Adding the ship image, p.232
+        Creating the ship class, p.233
+            ship.py
+        Drawing the ship to the screen, p.235
+            alien_invasion.py
+        
