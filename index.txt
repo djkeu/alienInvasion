@@ -16,4 +16,7 @@ Chapter 12 A ship that fires bullets, p.227
             ship.py
         Drawing the ship to the screen, p.235
             alien_invasion.py
-        
+    Refactoring: the _check_events() and _update_screen() methods, p.236
+        The _check_events() method, p.236
+            
+    
